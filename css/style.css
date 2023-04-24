@@ -69,22 +69,22 @@ body{
     animation-delay: 2.6s;
 }
 .greetings > span:nth-child(15){
-    animation-delay: 2.8s;
+    animation-delay: .2s;
 }
 .greetings > span:nth-child(16){
-    animation-delay: 3.0s;
+    animation-delay: .4s;
 }
 .greetings > span:nth-child(17){
-    animation-delay: 3.2s;
+    animation-delay: .6s;
 }
 .greetings > span:nth-child(18){
-    animation-delay: 3.4s;
+    animation-delay: .8s;
 }
 .greetings > span:nth-child(19){
-    animation-delay: 3.6s;
+    animation-delay: 1s;
 }
 .greetings > span:nth-child(20){
-    animation-delay: 3.8s;
+    animation-delay: 1.2s;
 }
 
 
